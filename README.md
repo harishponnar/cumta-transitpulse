@@ -7,7 +7,7 @@
 
 > **Evidence-Based Transit Planning**: Transforming commuter search intent from the Chennai One app into defensible operational decisions and schedule interventions across Chennai.
 
-🔗 **[Live Demo on Streamlit Community Cloud](<LIVE DEMO URL>)**
+🔗 **[Live Demo on Streamlit Community Cloud](https://harishponnar-cumta-transitpulse-app-ub1dmp.streamlit.app)**
 
 ---
 
@@ -105,7 +105,7 @@ The repository includes a lightweight, pre-aggregated demo dataset in `sample_da
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<GITHUB USERNAME>/cumta-transitpulse.git
+git clone https://github.com/harishponnar/cumta-transitpulse.git
 cd cumta-transitpulse
 
 # 2. Install dependencies (Python 3.12 recommended)
@@ -241,7 +241,7 @@ cumta-transitpulse/
 
 ## Author & Acknowledgements
 
-- **Author**: <YOUR NAME> ([GitHub Profile](https://github.com/<GITHUB USERNAME>) • [LinkedIn](<LINKEDIN URL>))
+- **Author**: Harish Ponnar ([GitHub Profile](https://github.com/harishponnar) • [LinkedIn](<LINKEDIN URL>))
 - **Hackathon Organisers**: Chennai Unified Metropolitan Transport Authority (CUMTA) & Easwari Engineering College
 - **Problem Statement 6**: *From Chennai One Data to Mobility Decisions* (March 2026)
 
