@@ -1,0 +1,9 @@
+# CUMTA TransitPulse — Pinned Production Dependencies
+streamlit==1.66.1
+plotly==7.1.0
+pandas==3.1.1
+numpy==2.5.4
+pyarrow==26.0.1
+duckdb==2.0.0
+pytest==9.2.0
+

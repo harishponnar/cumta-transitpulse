@@ -1,0 +1,41 @@
+# Raw and generated data directories
+Theme 6/
+raw/
+parquet/
+tmp_duck/
+logs/
+data_processed/
+transit-pulse-private/
+sample_backup/
+screenshots_v2/
+
+# Default file-type ignores
+*.csv
+*.parquet
+
+# Whitelist safe reference and sample data
+!data_reference/
+!data_reference/stop_coords.csv
+!sample_data/
+!sample_data/*.parquet
+
+# Caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+
+# Secrets and system files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.streamlit/credentials.toml
+
+# Logs and archives
+*.log
+*.zip
